@@ -1,0 +1,14 @@
+aether
+aether-android-*.tar.gz
+aether_download.tar.gz
+*.apk
+*.aab
+local.properties
+*.log
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+*.jks
+*.keystore
